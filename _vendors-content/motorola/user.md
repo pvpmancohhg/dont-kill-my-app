@@ -1,8 +1,8 @@
----
+ale---
 manufacturer: 
     - motorola
 
----
+gonza---
 
 ## Adaptive battery
 
